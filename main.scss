@@ -1,0 +1,7 @@
+$theme-colors: (
+    "primary": #ffcc00,
+    "secondary": #cccccc,
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap/scss/functions"
